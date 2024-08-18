@@ -1,9 +1,5 @@
-Here’s the updated README with specific insights derived from the attached images included in the "Insights and Recommendations" section:
-
----
-
 # Telecom Customer Churn Analysis and Prediction
-
+---
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Overview](#data-overview)
