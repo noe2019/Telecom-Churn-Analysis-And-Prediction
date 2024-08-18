@@ -1,0 +1,412 @@
+Age;Number_of_Referrals;Tenure_in_Months;Monthly_Charge;Total_Charges;Total_Refunds;Total_Extra_Data_Charges;Total_Long_Distance_Charges;Total_Revenue;Customer_ID;Gender;Married;State;Value_Deal;Phone_Service;Multiple_Lines;Internet_Service;Internet_Type;Online_Security;Online_Backup;Device_Protection_Plan;Premium_Support;Streaming_TV;Streaming_Movies;Streaming_Music;Unlimited_Data;Contract;Paperless_Billing;Payment_Method;Customer_Status;Churn_Category;Churn_Reason;Predictions
+67;13;19;72.1;72.1;0.0;0;7.77;79.87;93520-GUJ;Female;No;Gujarat;Deal 5;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;One Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+18;9;7;19.85;57.2;0.0;0;9.36;66.56;57256-BIH;Female;No;Bihar;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;14;12;44.3;44.3;0.0;0;42.95;87.25;72357-MAD;Female;No;Madhya Pradesh;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+58;11;18;19.95;58.0;0.0;0;8.07;66.07;66612-KAR;Female;Yes;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+31;5;5;20.05;33.7;0.0;0;3.62;37.32;22119-WES;Male;Yes;West Bengal;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+78;2;10;44.3;89.3;0.0;0;47.82;137.12;79168-UTT;Female;No;Uttar Pradesh;Deal 5;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;One Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+47;6;33;84.3;235.05;0.0;0;41.16;276.21;66712-GUJ;Female;Yes;Gujarat;Deal 5;Yes;No;Yes;Fiber Optic;No;Yes;No;No;No;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+36;2;4;19.7;19.7;0.0;0;34.28;53.98;53815-BIH;Female;No;Bihar;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+20;6;3;50.1;50.1;0.0;0;29.13;79.23;34110-MAH;Female;Yes;Maharashtra;Unknown;Yes;Yes;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+27;2;20;90.4;268.45;0.0;0;94.44;362.89;12056-WES;Male;No;West Bengal;Unknown;Yes;No;Yes;Fiber Optic;No;Yes;Yes;No;No;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+26;9;8;58.7;168.6;0.0;0;34.41;203.01;82129-JHA;Female;No;Jharkhand;Deal 5;Yes;No;Yes;DSL;No;Yes;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+48;14;21;26.4;121.25;0.0;0;101.61;222.86;27880-AND;Male;No;Andhra Pradesh;Unknown;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Two Year;Yes;Credit Card;Joined;Unknown;Unknown;1
+39;5;14;19.35;46.35;0.0;0;88.68;135.03;39764-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+67;10;22;50.15;50.15;0.0;50;38.33;138.48;29626-WES;Male;No;West Bengal;Deal 5;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;No;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+60;15;8;44.6;122.7;0.0;0;46.77;169.47;47133-ODI;Female;Yes;Odisha;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+33;11;25;19.3;44.4;0.0;0;99.82;144.22;62842-HAR;Male;Yes;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+63;12;34;60.25;170.5;0.0;70;60.3;300.8;21288-MAH;Female;No;Maharashtra;Unknown;Yes;Yes;Yes;DSL;No;No;No;No;Yes;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+48;8;24;90.7;237.65;0.0;0;16.17;253.82;83994-DEL;Male;Yes;Delhi;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+63;0;28;69.55;200.2;33.8;0;5.01;171.41;24754-AND;Female;Yes;Andhra Pradesh;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+20;0;2;20.75;67.1;0.0;0;49.17;116.27;62497-BIH;Female;No;Bihar;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+36;8;24;71.65;135.75;0.0;0;58.06;193.81;24990-WES;Female;No;West Bengal;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+62;3;19;62.15;113.1;0.0;0;96.78;209.88;26500-GUJ;Female;Yes;Gujarat;Deal 5;Yes;No;Yes;Cable;Yes;No;No;No;No;Yes;Yes;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+65;5;1;48.45;48.45;0.0;0;16.42;64.87;17796-BIH;Female;No;Bihar;Unknown;Yes;No;Yes;Cable;Yes;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+59;10;8;82.3;214.4;0.0;20;134.91;369.31;21956-JHA;Female;Yes;Jharkhand;Unknown;Yes;No;Yes;Fiber Optic;Yes;No;No;Yes;No;No;No;No;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+44;8;15;20.25;20.25;0.0;0;28.18;48.43;92198-DEL;Female;Yes;Delhi;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+24;0;12;20.45;20.45;0.0;0;30.09;50.54;79905-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+40;3;27;54.65;54.65;0.0;0;36.33;90.98;71509-HAR;Female;No;Haryana;Unknown;Yes;No;Yes;DSL;No;No;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+42;8;22;70.7;225.65;0.0;0;75.12;300.77;62535-AND;Male;No;Andhra Pradesh;Deal 5;Yes;No;Yes;Cable;No;No;No;Yes;Yes;Yes;Yes;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+38;2;19;20.75;44.2;0.0;0;55.34;99.54;45978-GUJ;Female;Yes;Gujarat;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+21;12;5;75.5;75.5;0.0;0;5.63;81.13;91835-GUJ;Male;Yes;Gujarat;Unknown;Yes;No;Yes;Cable;No;No;Yes;Yes;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+58;4;16;20.05;39.25;0.0;0;13.7;52.95;98788-TAM;Male;Yes;Tamil Nadu;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+39;1;14;19.55;19.55;0.0;0;30.63;50.18;48018-RAJ;Male;No;Rajasthan;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+31;2;10;19.65;19.65;0.0;0;42.42;62.07;31601-DEL;Female;Yes;Delhi;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+30;7;23;29.2;98.5;0.0;0;0.0;98.5;74651-WES;Female;Yes;West Bengal;Unknown;No;Unknown;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;9;35;54.2;140.4;0.0;0;124.14;264.54;42358-BIH;Female;No;Bihar;Unknown;Yes;No;Yes;DSL;No;No;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+48;6;5;19.05;19.05;0.0;0;5.02;24.07;71564-KAR;Female;No;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+51;4;28;19.85;19.85;0.0;0;47.46;67.31;22137-KAR;Female;No;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+72;7;17;30.75;82.85;0.0;0;0.0;82.85;44709-WES;Female;Yes;West Bengal;Unknown;No;Unknown;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+33;1;32;19.25;19.25;0.0;0;9.44;28.69;27856-UTT;Female;Yes;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+67;1;35;20.35;20.35;0.0;0;30.09;50.44;26567-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Two Year;No;Credit Card;Joined;Unknown;Unknown;1
+50;10;30;19.85;19.85;0.0;0;16.47;36.32;27465-JAM;Female;No;Jammu & Kashmir;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+61;11;23;19.75;19.75;0.0;0;37.62;57.37;54195-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+36;2;8;19.45;69.25;0.0;0;8.34;77.59;94978-PUN;Female;No;Punjab;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;Yes;Credit Card;Joined;Unknown;Unknown;1
+22;13;6;19.65;19.65;0.0;0;27.88;47.53;38748-AND;Female;Yes;Andhra Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+59;12;11;86.05;244.85;0.0;0;54.78;299.63;78918-BIH;Female;No;Bihar;Deal 5;Yes;No;Yes;Fiber Optic;Yes;No;No;No;No;Yes;Yes;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+34;11;11;65.25;209.9;0.0;0;128.04;337.94;99515-ASS;Male;No;Assam;Unknown;Yes;Yes;Yes;Cable;No;No;No;Yes;Yes;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+52;7;2;95.85;95.85;0.0;0;2.7;98.55;26902-TEL;Male;Yes;Telangana;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;Yes;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+24;9;8;49.9;49.9;0.0;0;6.35;56.25;97497-RAJ;Male;Yes;Rajasthan;Deal 5;Yes;No;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+29;14;6;19.1;52.0;0.0;0;135.99;187.99;28317-MAD;Female;Yes;Madhya Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Two Year;No;Mailed Check;Joined;Unknown;Unknown;1
+63;6;31;19.0;19.0;0.0;0;28.28;47.28;32063-UTT;Female;Yes;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+57;11;8;75.1;75.1;0.0;0;4.53;79.63;84843-MAD;Female;Yes;Madhya Pradesh;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+38;9;3;49.9;49.9;0.0;0;9.0;58.9;43920-RAJ;Female;No;Rajasthan;Deal 5;Yes;No;Yes;Cable;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+45;1;11;19.65;60.65;0.0;0;91.02;151.67;94609-HAR;Female;No;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+38;1;6;49.95;49.95;0.0;0;44.98;94.93;48939-BIH;Female;Yes;Bihar;Unknown;Yes;No;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+44;3;16;43.8;43.8;0.0;0;37.5;81.3;67882-UTT;Female;No;Uttar Pradesh;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+28;15;9;49.9;49.9;0.0;0;14.93;64.83;18015-ODI;Female;Yes;Odisha;Unknown;Yes;No;Yes;DSL;No;No;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+39;9;1;19.55;19.55;0.0;0;10.2;29.75;12257-ASS;Female;No;Assam;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+63;13;30;85.0;85.0;0.0;0;15.2;100.2;78253-GUJ;Male;No;Gujarat;Unknown;Yes;No;Yes;Fiber Optic;No;Yes;No;No;No;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+25;13;10;70.25;70.25;0.0;10;10.05;90.3;66868-HAR;Female;Yes;Haryana;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+32;6;10;19.2;19.2;0.0;0;35.88;55.08;33776-BIH;Male;Yes;Bihar;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+39;8;23;19.3;19.3;0.0;0;8.66;27.96;16931-BIH;Female;Yes;Bihar;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+27;13;13;44.45;82.7;0.0;0;37.4;120.1;74518-ODI;Female;No;Odisha;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+34;5;4;75.35;75.35;0.0;0;38.89;114.24;83486-MAH;Male;No;Maharashtra;Deal 5;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+42;7;15;20.3;40.25;0.0;0;14.54;54.79;38663-UTT;Male;No;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+41;0;25;50.5;147.75;0.0;0;79.14;226.89;44655-TEL;Male;Yes;Telangana;Unknown;Yes;No;Yes;DSL;No;No;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+18;5;7;24.3;38.45;0.0;0;0.0;38.45;11751-TAM;Female;No;Tamil Nadu;Deal 5;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+25;15;5;61.2;125.95;0.0;0;64.12;190.07;45213-AND;Female;Yes;Andhra Pradesh;Deal 5;Yes;No;Yes;Cable;Yes;No;No;No;No;Yes;Yes;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+38;2;32;19.95;38.15;0.0;0;69.14;107.29;21165-DEL;Female;No;Delhi;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+35;8;30;29.15;29.15;0.0;0;0.0;29.15;83113-GUJ;Male;No;Gujarat;Unknown;No;Unknown;Yes;DSL;No;No;No;Yes;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+40;12;25;50.15;50.15;0.0;0;20.3;70.45;34319-UTT;Male;Yes;Uttar Pradesh;Deal 5;Yes;No;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+23;15;5;74.6;74.6;0.0;0;42.99;117.59;73044-KAR;Male;Yes;Karnataka;Unknown;Yes;No;Yes;Fiber Optic;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+42;3;19;43.95;43.95;0.0;0;45.59;89.54;71689-PUN;Female;Yes;Punjab;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+43;2;5;19.5;19.5;0.0;0;20.11;39.61;78885-TAM;Female;No;Tamil Nadu;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+52;9;34;61.15;61.15;0.0;0;17.07;78.22;65987-TAM;Male;Yes;Tamil Nadu;Deal 5;Yes;Yes;Yes;DSL;Yes;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+21;8;3;90.1;90.1;0.0;0;24.33;114.43;94070-JAM;Female;Yes;Jammu & Kashmir;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+60;1;4;44.0;44.0;0.0;0;13.4;57.4;85031-RAJ;Female;No;Rajasthan;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+56;9;9;55.7;55.7;0.0;0;17.68;73.38;72469-MAD;Male;No;Madhya Pradesh;Unknown;Yes;No;Yes;Cable;Yes;No;Yes;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+59;6;25;35.9;35.9;0.0;0;0.0;35.9;46792-MAD;Female;Yes;Madhya Pradesh;Deal 5;No;Unknown;Yes;DSL;No;No;Yes;Yes;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+55;7;4;74.95;151.75;0.0;0;7.52;159.27;28873-TAM;Male;No;Tamil Nadu;Unknown;Yes;No;Yes;Fiber Optic;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+22;5;4;25.4;25.4;0.0;0;32.73;58.13;95748-UTT;Male;Yes;Uttar Pradesh;Deal 5;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+26;10;16;20.25;20.25;0.0;0;42.96;63.21;23683-TEL;Male;No;Telangana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+46;9;19;107.95;318.6;0.0;0;37.98;356.58;84789-PUN;Male;No;Punjab;Deal 5;Yes;No;Yes;Fiber Optic;No;Yes;Yes;Yes;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+28;11;28;21.1;21.1;0.0;0;18.81;39.91;84508-TAM;Female;Yes;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+28;4;27;53.45;119.5;0.0;0;25.18;144.68;98301-WES;Male;Yes;West Bengal;Unknown;Yes;No;Yes;Cable;Yes;No;Yes;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+44;4;25;25.25;25.25;0.0;10;0.0;35.25;16068-BIH;Female;Yes;Bihar;Deal 5;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;No;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+45;13;14;19.4;19.4;0.0;0;2.85;22.25;42768-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+25;1;14;20.4;20.4;0.0;0;27.5;47.9;46619-RAJ;Male;No;Rajasthan;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+30;8;22;79.15;79.15;0.0;60;18.0;157.15;84613-BIH;Female;No;Bihar;Deal 5;Yes;Yes;Yes;Fiber Optic;No;Yes;No;No;No;No;No;No;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+58;0;18;70.1;70.1;0.0;0;1.15;71.25;91320-PUD;Female;No;Puducherry;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+34;12;13;49.05;49.05;0.0;0;25.77;74.82;39540-BIH;Female;No;Bihar;Unknown;Yes;No;Yes;Cable;No;No;No;Yes;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+37;14;8;45.4;45.4;0.0;0;49.33;94.73;19539-PUN;Female;Yes;Punjab;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+32;10;31;19.85;52.0;0.0;0;72.1;124.1;23256-HAR;Female;Yes;Haryana;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+62;13;20;19.4;61.05;0.0;0;13.3;74.35;66164-CHH;Female;No;Chhattisgarh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+25;7;14;74.55;233.65;0.0;0;30.3;263.95;45038-BIH;Female;Yes;Bihar;Unknown;Yes;No;Yes;Fiber Optic;Yes;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+34;11;14;20.3;41.2;0.0;0;25.36;66.56;58974-MAD;Male;No;Madhya Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+34;5;15;19.9;19.9;0.0;0;7.76;27.66;94243-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+35;5;12;20.0;61.7;0.0;0;46.11;107.81;92398-AND;Male;No;Andhra Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+46;2;36;20.4;42.9;0.0;0;99.06;141.96;84535-TAM;Male;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+81;6;8;74.7;74.7;0.0;0;27.65;102.35;72971-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;Yes;No;No;No;Yes;One Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+29;0;11;19.75;19.75;0.0;0;10.22;29.97;56554-RAJ;Female;Yes;Rajasthan;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+35;15;11;74.3;74.3;0.0;0;39.55;113.85;86362-ASS;Female;Yes;Assam;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+59;8;9;20.65;20.65;0.0;0;35.24;55.89;64327-AND;Female;Yes;Andhra Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+31;0;18;24.7;24.7;0.0;70;0.0;94.7;84687-PUN;Female;No;Punjab;Deal 5;No;Unknown;Yes;Cable;No;No;No;No;No;No;No;No;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+55;0;5;19.95;19.95;0.0;0;38.84;58.79;28239-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+65;8;33;84.05;186.05;0.0;0;43.8;229.85;46571-HAR;Female;Yes;Haryana;Deal 5;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;Yes;No;Yes;Two Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+25;5;3;19.55;19.55;0.0;0;8.23;27.78;42574-ASS;Female;No;Assam;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+59;2;27;70.45;70.45;0.0;0;20.1;90.55;71261-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;Yes;Cable;Yes;Yes;No;Yes;No;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+43;1;9;20.35;20.35;0.0;0;44.09;64.44;14567-TAM;Male;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+35;4;13;49.0;49.0;0.0;0;49.19;98.19;77688-TAM;Male;No;Tamil Nadu;Unknown;Yes;No;Yes;DSL;No;No;No;Yes;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+39;8;34;20.85;72.0;0.0;0;35.31;107.31;53612-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+58;13;22;46.1;130.15;0.0;0;7.98;138.13;13058-MAD;Female;No;Madhya Pradesh;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+58;14;19;19.65;38.8;0.0;0;19.22;58.02;23729-UTT;Female;No;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+25;2;35;19.9;19.9;0.0;0;11.83;31.73;12136-RAJ;Female;Yes;Rajasthan;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+35;2;16;20.45;20.45;0.0;0;39.61;60.06;35658-JHA;Male;No;Jharkhand;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+36;8;34;44.75;44.75;0.0;0;40.87;85.62;63487-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+27;4;27;20.3;20.3;0.0;0;29.19;49.49;86289-UTT;Male;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+25;15;10;8.0;25.75;0.0;0;15.22;40.97;32586-UTT;Female;No;Uttar Pradesh;Unknown;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+47;9;5;20.75;20.75;0.0;0;36.28;57.03;66749-KER;Female;No;Kerala;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+41;0;13;71.1;213.35;2.62;0;111.0;321.73;46479-GUJ;Male;Yes;Gujarat;Unknown;Yes;No;Yes;DSL;Yes;Yes;No;Yes;No;Yes;Yes;Yes;Two Year;No;Credit Card;Joined;Unknown;Unknown;1
+35;7;33;25.7;25.7;0.0;0;43.84;69.54;53295-WES;Female;No;West Bengal;Deal 5;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+47;9;12;50.15;50.15;0.0;0;39.87;90.02;15349-UTT;Male;Yes;Uttar Pradesh;Deal 5;Yes;Yes;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+56;8;32;80.35;253.8;0.0;0;148.89;402.69;28281-KAR;Male;Yes;Karnataka;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+52;15;32;83.4;83.4;0.0;0;43.06;126.46;88111-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;Yes;Fiber Optic;Yes;Yes;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+32;3;30;20.5;76.95;0.0;0;111.03;187.98;42029-TAM;Male;Yes;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+52;9;6;74.75;238.1;38.84;0;37.5;236.76;12490-TEL;Female;No;Telangana;Unknown;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+45;4;21;20.05;20.05;0.0;0;7.66;27.71;34024-AND;Female;Yes;Andhra Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+51;4;2;19.9;57.4;0.0;0;53.8;111.2;71752-TEL;Female;No;Telangana;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+18;4;3;59.55;59.55;0.0;0;41.39;100.94;62968-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;Yes;Cable;No;No;No;Yes;No;Yes;Yes;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+48;14;1;24.7;24.7;0.0;0;0.0;24.7;68826-MAH;Male;No;Maharashtra;Unknown;No;Unknown;Yes;Cable;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+52;15;23;19.55;19.55;0.0;0;40.63;60.18;36017-TAM;Female;Yes;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+66;0;11;74.2;140.1;0.0;0;14.58;154.68;83610-BIH;Female;Yes;Bihar;Deal 5;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;No;No;Yes;Two Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+34;3;22;69.8;146.65;0.0;10;22.38;179.03;32563-KAR;Female;Yes;Karnataka;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+43;4;13;44.55;44.55;0.0;0;41.1;85.65;36284-ODI;Male;Yes;Odisha;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+59;15;10;70.4;154.8;0.0;0;14.98;169.78;46378-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+50;9;14;69.95;69.95;0.0;0;11.45;81.4;44202-TEL;Female;Yes;Telangana;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+32;13;4;18.8;18.8;0.0;0;43.57;62.37;17154-HAR;Male;No;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Mailed Check;Joined;Unknown;Unknown;1
+57;4;6;51.4;96.8;0.0;0;0.0;96.8;19837-TAM;Female;Yes;Tamil Nadu;Unknown;No;Unknown;Yes;Cable;No;Yes;No;No;Yes;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+57;15;16;95.4;293.15;0.0;0;51.03;344.18;13666-UTT;Male;Yes;Uttarakhand;Unknown;Yes;No;Yes;Fiber Optic;No;Yes;No;No;Yes;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+56;4;15;69.95;220.45;0.0;30;88.53;338.98;48307-WES;Female;No;West Bengal;Deal 5;Yes;No;Yes;Cable;No;No;Yes;No;Yes;Yes;Yes;No;One Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+30;7;18;20.7;39.85;0.0;0;27.78;67.63;26412-ASS;Female;No;Assam;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+25;7;5;20.05;20.05;0.0;0;18.15;38.2;86891-GUJ;Male;No;Gujarat;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+41;5;35;20.2;50.6;0.0;0;55.29;105.89;34101-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+48;7;5;60.65;196.9;0.0;0;67.47;264.37;63464-AND;Male;No;Andhra Pradesh;Unknown;Yes;No;Yes;DSL;No;No;No;Yes;No;Yes;Yes;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+24;5;11;34.8;113.95;0.0;0;0.0;113.95;92134-BIH;Male;No;Bihar;Unknown;No;Unknown;Yes;DSL;No;No;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+49;0;36;25.85;25.85;0.0;0;0.0;25.85;48051-GUJ;Female;Yes;Gujarat;Unknown;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;Yes;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+35;10;7;89.85;248.4;0.0;0;99.9;348.3;19811-MAH;Female;Yes;Maharashtra;Deal 5;Yes;No;Yes;Fiber Optic;Yes;Yes;No;No;Yes;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+63;10;1;29.8;94.4;0.0;0;0.0;94.4;82473-AND;Male;Yes;Andhra Pradesh;Deal 5;No;Unknown;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+57;3;34;60.95;134.6;0.0;0;29.76;164.36;89512-JAM;Male;No;Jammu & Kashmir;Unknown;Yes;Yes;Yes;DSL;Yes;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+53;0;18;20.3;20.3;0.0;0;4.09;24.39;27553-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+61;3;10;80.55;188.1;0.0;0;10.6;198.7;83196-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;Yes;Yes;Fiber Optic;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;10;21;19.25;48.35;0.0;0;42.36;90.71;95735-PUN;Female;No;Punjab;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;15;26;80.7;239.45;0.0;0;71.16;310.61;52279-TAM;Male;No;Tamil Nadu;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+25;1;6;8.0;132.4;0.0;0;47.04;179.44;46004-TAM;Male;Yes;Tamil Nadu;Unknown;Yes;No;Yes;DSL;No;No;No;Yes;Yes;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+29;0;2;20.2;20.2;0.0;0;42.15;62.35;45672-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+37;15;14;45.25;74.2;0.0;0;79.0;153.2;19541-ODI;Female;Yes;Odisha;Deal 5;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+77;13;33;72.6;154.3;0.0;0;30.38;184.68;79777-MAH;Male;Yes;Maharashtra;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+34;3;26;19.2;19.2;0.0;0;17.89;37.09;95822-AND;Male;Yes;Andhra Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+57;0;12;92.0;266.8;0.0;0;46.8;313.6;97828-MAH;Female;No;Maharashtra;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+55;11;7;76.1;257.6;0.0;0;43.05;300.65;54564-AND;Female;Yes;Andhra Pradesh;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+55;11;6;19.2;19.2;0.0;0;32.78;51.98;84720-GUJ;Male;Yes;Gujarat;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+25;13;19;20.05;75.45;0.0;0;113.55;189.0;38779-HAR;Female;No;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+85;2;10;74.6;239.05;0.0;30;118.53;387.58;39623-HAR;Female;No;Haryana;Deal 5;Yes;No;Yes;Fiber Optic;No;Yes;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+74;10;2;45.25;45.25;0.0;0;11.89;57.14;53186-HAR;Male;Yes;Haryana;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;One Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+46;14;7;79.55;151.75;0.0;0;51.12;202.87;82010-WES;Female;No;West Bengal;Deal 5;Yes;Yes;Yes;Fiber Optic;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+18;11;1;79.45;145.15;0.0;0;57.22;202.37;46865-PUN;Female;No;Punjab;Deal 5;Yes;Yes;Yes;Fiber Optic;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+50;10;31;24.4;24.4;0.0;0;0.0;24.4;99488-KAR;Male;Yes;Karnataka;Unknown;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+43;13;16;84.05;134.05;0.0;0;44.46;178.51;73547-KAR;Female;Yes;Karnataka;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+24;11;4;55.3;55.3;0.0;0;36.69;91.99;12469-AND;Male;Yes;Andhra Pradesh;Unknown;Yes;No;Yes;DSL;No;No;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+52;1;8;45.55;45.55;0.0;0;16.34;61.89;77137-MAH;Male;No;Maharashtra;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+64;5;9;55.05;55.05;0.0;0;14.65;69.7;35075-PUN;Male;Yes;Punjab;Unknown;Yes;No;Yes;Cable;No;No;Yes;Yes;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+52;11;17;20.35;20.35;0.0;0;31.97;52.32;61474-TEL;Male;Yes;Telangana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+33;12;26;20.45;42.45;0.0;0;94.38;136.83;63883-KAR;Female;Yes;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+36;6;21;35.1;101.1;0.0;0;0.0;101.1;19041-AND;Female;No;Andhra Pradesh;Deal 5;No;Unknown;Yes;Cable;Yes;No;No;Yes;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+37;12;30;54.45;87.3;0.0;0;39.74;127.04;74378-KAR;Female;Yes;Karnataka;Unknown;Yes;No;Yes;DSL;Yes;No;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+31;1;19;20.75;20.75;0.0;0;7.57;28.32;23605-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+40;6;16;19.45;19.45;0.0;0;16.44;35.89;22765-MAH;Female;Yes;Maharashtra;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+55;6;35;1.0;49.3;0.0;10;14.97;74.27;93521-MAH;Female;No;Maharashtra;Unknown;Yes;No;Yes;DSL;No;No;No;Yes;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+38;12;23;1.0;129.2;0.0;10;5.44;144.64;56460-MAH;Male;Yes;Maharashtra;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+49;5;18;19.75;19.75;0.0;0;5.32;25.07;94305-KAR;Male;Yes;Karnataka;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+26;3;31;20.4;20.4;0.0;0;45.91;66.31;15591-KAR;Female;No;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+67;15;20;20.2;65.95;0.0;0;95.43;161.38;98334-MAD;Male;Yes;Madhya Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+42;15;25;19.65;19.65;0.0;0;16.91;36.56;47737-UTT;Male;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+69;0;20;43.95;85.1;0.0;0;38.18;123.28;24696-BIH;Female;Yes;Bihar;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+49;4;31;18.8;56.0;0.0;0;19.83;75.83;18829-TAM;Female;Yes;Tamil Nadu;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+35;1;7;35.0;35.0;0.0;0;0.0;35.0;72391-UTT;Male;No;Uttar Pradesh;Unknown;No;Unknown;Yes;DSL;No;No;No;No;No;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+59;5;4;19.65;31.2;0.0;0;15.6;46.8;77230-RAJ;Female;Yes;Rajasthan;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+66;9;6;71.25;71.25;0.0;10;17.6;98.85;52403-WES;Female;Yes;West Bengal;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Two Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+18;0;2;85.7;256.75;0.0;0;89.52;346.27;19998-AND;Female;No;Andhra Pradesh;Deal 5;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;Yes;Yes;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+42;2;14;19.75;19.75;0.0;0;15.77;35.52;36483-KAR;Male;No;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+59;11;32;19.75;39.3;0.0;0;3.94;43.24;54598-TAM;Male;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+44;12;32;44.05;44.05;0.0;0;30.73;74.78;66669-HAR;Male;No;Haryana;Deal 5;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+76;12;18;75.05;202.9;5.49;10;124.32;331.73;35606-BIH;Male;Yes;Bihar;Deal 5;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;No;No;No;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+58;3;6;20.6;20.6;0.0;0;1.48;22.08;33773-UTT;Male;Yes;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+23;6;3;60.85;111.4;0.0;0;30.5;141.9;43877-PUN;Male;No;Punjab;Unknown;Yes;No;Yes;DSL;No;No;Yes;No;No;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+40;15;13;20.8;20.8;0.0;0;48.14;68.94;16764-WES;Male;No;West Bengal;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+37;0;32;50.25;152.3;0.0;0;84.57;236.87;95991-MAD;Female;Yes;Madhya Pradesh;Unknown;Yes;No;Yes;Cable;No;No;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+40;14;15;70.3;220.4;0.0;0;29.22;249.62;56256-UTT;Male;No;Uttar Pradesh;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+30;1;27;45.45;141.7;0.0;0;61.11;202.81;32587-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+57;2;9;49.5;49.5;0.0;30;16.99;96.49;86970-KER;Male;Yes;Kerala;Unknown;Yes;No;Yes;DSL;No;Yes;No;No;No;No;No;No;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+38;6;10;74.95;212.4;27.6;0;4.92;189.72;66766-UTT;Female;No;Uttar Pradesh;Deal 5;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+58;1;29;90.75;174.75;0.0;0;54.34;229.09;34713-KER;Male;Yes;Kerala;Deal 5;Yes;Yes;Yes;Fiber Optic;Yes;No;No;No;No;Yes;Yes;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+41;5;29;44.6;44.6;0.0;0;45.28;89.88;82170-TAM;Male;No;Tamil Nadu;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+45;15;20;25.25;25.25;0.0;0;0.0;25.25;74033-ASS;Female;Yes;Assam;Unknown;No;Unknown;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+76;5;22;49.95;107.1;0.0;0;75.94;183.04;26139-KAR;Male;No;Karnataka;Deal 5;Yes;No;Yes;DSL;No;No;Yes;No;No;No;No;Yes;Two Year;No;Mailed Check;Joined;Unknown;Unknown;1
+23;3;7;19.2;19.2;0.0;0;26.37;45.57;32966-HAR;Female;No;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+21;9;8;79.95;174.45;0.0;0;75.4;249.85;94124-MAH;Female;No;Maharashtra;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+31;1;28;24.5;46.4;0.0;0;0.0;46.4;13823-TEL;Female;Yes;Telangana;Deal 5;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+46;14;34;20.0;38.0;0.0;0;68.76;106.76;57457-MAD;Female;No;Madhya Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+33;5;8;89.35;89.35;0.0;0;5.36;94.71;96967-CHH;Female;No;Chhattisgarh;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+58;15;28;19.85;19.85;0.0;0;29.1;48.95;71210-WES;Female;No;West Bengal;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+36;10;23;24.9;24.9;0.0;0;0.0;24.9;53764-WES;Male;No;West Bengal;Unknown;No;Unknown;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+36;15;22;44.75;44.75;0.0;10;18.57;73.32;39128-PUN;Male;No;Punjab;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+65;7;18;20.25;71.2;0.0;0;4.41;75.61;65405-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Mailed Check;Joined;Unknown;Unknown;1
+58;14;8;71.3;157.75;0.0;0;13.48;171.23;87024-KAR;Male;No;Karnataka;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+50;5;29;69.7;135.2;0.0;0;31.34;166.54;99855-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+24;1;12;45.55;84.4;0.0;10;83.8;178.2;39866-MAH;Female;No;Maharashtra;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;No;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+27;9;2;20.35;20.35;0.0;0;29.86;50.21;97427-JAM;Female;Yes;Jammu & Kashmir;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+40;7;16;20.05;20.05;0.0;0;3.23;23.28;92527-KAR;Female;No;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+63;4;30;19.55;61.05;0.0;0;122.94;183.99;33910-TEL;Female;No;Telangana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+23;0;10;20.2;34.75;0.0;0;76.82;111.57;85506-MAH;Female;No;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+78;11;29;45.2;45.2;0.0;0;49.34;94.54;57012-TAM;Female;Yes;Tamil Nadu;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Two Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+27;0;36;55.55;55.55;0.0;30;33.32;118.87;46190-GUJ;Male;Yes;Gujarat;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;Yes;Yes;No;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+44;7;1;80.15;194.55;0.0;0;53.16;247.71;36628-GUJ;Female;Yes;Gujarat;Deal 5;Yes;No;Yes;Fiber Optic;Yes;No;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+18;5;4;74.75;144.8;0.0;0;87.12;231.92;46730-ASS;Female;No;Assam;Deal 5;Yes;No;Yes;Fiber Optic;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+30;15;24;20.15;20.15;0.0;0;18.63;38.78;47492-AND;Female;Yes;Andhra Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+77;0;16;73.85;196.4;0.0;0;139.95;336.35;33472-HAR;Female;No;Haryana;Unknown;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;No;No;Yes;Two Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+45;11;15;59.5;130.5;0.0;0;85.1;215.6;49273-PUD;Female;Yes;Puducherry;Deal 5;Yes;No;Yes;DSL;Yes;Yes;No;Yes;No;No;No;Yes;Two Year;No;Mailed Check;Joined;Unknown;Unknown;1
+48;10;19;84.6;84.6;0.0;0;7.34;91.94;44700-DEL;Female;No;Delhi;Deal 5;Yes;Yes;Yes;Fiber Optic;No;No;No;No;Yes;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+40;4;10;91.45;171.45;0.0;10;98.82;280.27;25517-RAJ;Female;No;Rajasthan;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;Yes;No;Yes;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+80;8;33;95.5;181.65;0.0;10;66.2;257.85;25733-HAR;Female;No;Haryana;Deal 5;Yes;No;Yes;Fiber Optic;No;No;Yes;No;Yes;Yes;No;No;One Year;Yes;Credit Card;Joined;Unknown;Unknown;1
+39;5;22;64.4;195.65;0.0;0;114.15;309.8;79342-KAR;Female;Yes;Karnataka;Unknown;Yes;No;Yes;DSL;Yes;No;No;Yes;Yes;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+46;0;5;69.6;207.4;0.0;20;86.91;314.31;74804-WES;Female;No;West Bengal;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+44;6;7;20.0;40.9;0.0;0;86.54;127.44;45561-MAH;Female;Yes;Maharashtra;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+33;4;2;75.55;75.55;0.0;0;7.11;82.66;28681-HAR;Female;No;Haryana;Unknown;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+54;14;7;19.9;45.75;0.0;0;124.08;169.83;36339-UTT;Female;No;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+38;6;12;20.25;36.8;0.0;0;31.66;68.46;73108-GUJ;Female;Yes;Gujarat;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+54;14;35;20.65;20.65;0.0;0;1.47;22.12;86703-WES;Female;Yes;West Bengal;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+39;11;19;91.15;168.5;0.0;10;93.56;272.06;92494-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;Yes;Fiber Optic;Yes;Yes;No;No;Yes;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+67;12;21;70.1;141.65;0.0;0;69.98;211.63;79427-KAR;Male;Yes;Karnataka;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+57;10;21;75.3;244.1;0.0;0;116.97;361.07;26448-BIH;Female;No;Bihar;Deal 5;Yes;No;Yes;DSL;No;Yes;No;Yes;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+31;1;13;45.8;45.8;0.0;0;13.62;59.42;81118-MAD;Female;No;Madhya Pradesh;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+62;13;36;94.85;335.75;0.0;0;113.34;449.09;91505-DEL;Male;Yes;Delhi;Deal 5;Yes;Yes;Yes;Fiber Optic;No;No;No;No;Yes;Yes;Yes;Yes;Two Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+40;5;14;29.65;90.05;0.0;0;0.0;90.05;83308-TAM;Male;No;Tamil Nadu;Unknown;No;Unknown;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+34;0;33;64.2;143.65;0.0;30;8.82;182.47;82559-CHH;Male;Yes;Chhattisgarh;Deal 5;Yes;No;Yes;DSL;No;Yes;No;Yes;No;Yes;Yes;No;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+45;8;4;19.95;47.7;0.0;0;62.9;110.6;72275-GUJ;Female;Yes;Gujarat;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+37;0;23;48.75;48.75;0.0;0;26.26;75.01;96430-PUN;Male;No;Punjab;Unknown;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+69;3;6;24.2;24.2;0.0;0;0.0;24.2;82118-JAM;Female;Yes;Jammu & Kashmir;Deal 5;No;Unknown;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+19;11;11;64.6;174.2;0.0;0;122.97;297.17;61203-PUN;Female;No;Punjab;Unknown;Yes;Yes;Yes;Cable;No;No;No;Yes;Yes;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+44;7;36;45.85;105.6;0.0;0;10.94;116.54;58577-ODI;Female;Yes;Odisha;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+36;3;25;70.35;139.25;0.0;0;89.54;228.79;43908-WES;Male;No;West Bengal;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+25;4;31;55.25;55.25;0.0;60;39.19;154.44;47611-WES;Male;No;West Bengal;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;Yes;Yes;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+64;4;1;44.0;44.0;0.0;0;15.66;59.66;95594-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+43;8;17;69.9;69.9;0.0;10;9.36;89.26;55043-UTT;Male;Yes;Uttar Pradesh;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+18;14;7;19.65;19.65;0.0;0;23.41;43.06;43604-TAM;Female;No;Tamil Nadu;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Mailed Check;Joined;Unknown;Unknown;1
+52;14;34;20.35;35.1;0.0;0;4.92;40.02;52695-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+51;6;11;69.95;143.9;0.0;0;58.2;202.1;89303-AND;Male;No;Andhra Pradesh;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+47;15;19;64.5;177.4;0.0;60;118.65;356.05;19747-WES;Female;No;West Bengal;Deal 5;Yes;No;Yes;DSL;Yes;No;No;Yes;No;Yes;Yes;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+47;15;9;24.0;24.0;0.0;0;32.95;56.95;25048-TEL;Male;No;Telangana;Deal 5;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;5;30;107.95;313.6;0.0;0;142.5;456.1;79700-KER;Female;No;Kerala;Unknown;Yes;Yes;Yes;Fiber Optic;No;Yes;Yes;No;Yes;Yes;Yes;Yes;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+38;7;33;20.55;57.4;0.0;0;33.81;91.21;93667-KER;Female;No;Kerala;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;Yes;Credit Card;Joined;Unknown;Unknown;1
+48;14;11;20.5;38.25;0.0;0;62.02;100.27;36323-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+50;3;7;44.45;44.45;0.0;0;23.34;67.79;45771-KAR;Female;No;Karnataka;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+19;6;10;20.25;20.25;0.0;0;47.25;67.5;27561-UTT;Female;No;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+58;2;2;19.5;19.5;0.0;0;8.02;27.52;21247-ASS;Male;Yes;Assam;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+62;3;21;69.0;147.8;0.0;0;54.82;202.62;87077-TAM;Male;Yes;Tamil Nadu;Deal 5;Yes;No;Yes;Cable;No;No;Yes;No;Yes;Yes;Yes;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+23;12;2;49.25;97.0;0.0;0;81.5;178.5;17250-HAR;Female;Yes;Haryana;Unknown;Yes;No;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+56;5;29;29.75;96.85;0.0;0;0.0;96.85;89382-ASS;Male;No;Assam;Deal 5;No;Unknown;Yes;DSL;No;No;No;Yes;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+47;8;18;46.6;87.9;0.0;0;3.74;91.64;16032-AND;Female;No;Andhra Pradesh;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+26;4;2;20.45;20.45;0.0;0;42.17;62.62;47957-GUJ;Female;No;Gujarat;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+37;11;30;29.9;29.9;0.0;0;0.0;29.9;49201-GUJ;Female;No;Gujarat;Unknown;No;Unknown;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+49;10;14;29.05;44.75;0.0;0;0.0;44.75;74979-MAD;Female;Yes;Madhya Pradesh;Deal 5;No;Unknown;Yes;Cable;No;No;No;Yes;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+64;0;9;56.55;118.25;0.0;0;63.48;181.73;54172-RAJ;Female;Yes;Rajasthan;Deal 5;Yes;Yes;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+54;9;4;70.15;194.2;0.0;0;16.89;211.09;83080-HAR;Female;No;Haryana;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+58;5;10;19.75;19.75;0.0;0;41.28;61.03;41795-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+76;10;1;45.85;45.85;0.0;0;40.38;86.23;16733-ODI;Female;Yes;Odisha;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+47;9;3;44.15;44.15;0.0;0;9.82;53.97;25763-JHA;Female;Yes;Jharkhand;Deal 5;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+32;6;1;25.35;25.35;0.0;0;0.0;25.35;28266-JAM;Male;No;Jammu & Kashmir;Unknown;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+33;1;12;19.6;55.25;0.0;0;125.7;180.95;32080-WES;Male;Yes;West Bengal;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+75;12;33;46.3;46.3;0.0;0;11.51;57.81;67994-MAD;Male;Yes;Madhya Pradesh;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Two Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+51;0;10;62.8;62.8;0.0;0;42.19;104.99;12340-DEL;Female;Yes;Delhi;Unknown;Yes;No;Yes;Cable;No;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+42;5;33;19.95;19.95;0.0;0;27.08;47.03;31476-TEL;Male;Yes;Telangana;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+37;15;34;41.35;107.25;0.0;0;0.0;107.25;31918-KAR;Female;No;Karnataka;Unknown;No;Unknown;Yes;Cable;Yes;No;Yes;Yes;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;12;4;80.5;232.35;0.0;0;80.58;312.93;66413-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+23;11;10;20.2;20.2;0.0;0;41.1;61.3;97615-MAH;Female;Yes;Maharashtra;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+32;2;34;20.7;57.5;0.0;0;115.23;172.73;42089-MAH;Female;No;Maharashtra;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+77;9;28;83.8;163.7;0.0;0;65.96;229.66;75641-PUN;Male;No;Punjab;Unknown;Yes;No;Yes;Fiber Optic;No;Yes;No;No;Yes;No;No;Yes;Two Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+27;2;17;3.0;20.2;0.0;0;44.69;64.89;64095-BIH;Male;No;Bihar;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+34;8;13;45.4;80.95;0.0;0;21.62;102.57;75671-PUD;Female;Yes;Puducherry;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+50;9;3;25.0;78.25;0.0;0;0.0;78.25;29525-TAM;Female;Yes;Tamil Nadu;Deal 5;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+33;7;36;19.1;19.1;0.0;0;5.02;24.12;18415-KAR;Female;Yes;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+26;10;5;20.4;20.4;0.0;0;17.81;38.21;35635-TEL;Female;Yes;Telangana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+28;0;24;45.3;45.3;0.0;0;47.36;92.66;67752-MAH;Female;No;Maharashtra;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+47;9;25;50.95;123.05;0.0;0;73.92;196.97;51961-BIH;Male;No;Bihar;Deal 5;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+37;2;16;97.1;184.15;0.0;0;78.7;262.85;23632-HAR;Female;Yes;Haryana;Deal 5;Yes;No;Yes;Fiber Optic;Yes;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+50;8;7;43.85;43.85;0.0;10;15.9;69.75;38920-PUN;Female;No;Punjab;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+26;10;18;19.9;19.9;0.0;0;1.5;21.4;51597-MAD;Female;Yes;Madhya Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+58;10;34;30.55;30.55;0.0;40;0.0;70.55;88107-JAM;Female;No;Jammu & Kashmir;Unknown;No;Unknown;Yes;DSL;No;No;No;Yes;No;No;No;No;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+54;6;13;20.95;20.95;0.0;0;2.29;23.24;86315-TAM;Female;No;Tamil Nadu;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+34;3;23;20.0;63.6;0.0;0;120.6;184.2;35995-PUN;Female;No;Punjab;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+59;11;29;59.0;114.15;0.0;0;54.04;168.19;84577-TEL;Female;Yes;Telangana;Unknown;Yes;No;Yes;Cable;No;Yes;No;No;Yes;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+53;13;9;44.9;111.05;0.0;0;10.16;121.21;23855-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+39;1;33;19.6;61.35;0.0;0;106.95;168.3;71183-TAM;Female;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+60;12;18;50.2;109.25;0.0;10;12.68;131.93;43297-MAH;Male;No;Maharashtra;Unknown;Yes;No;Yes;Cable;No;No;No;Yes;No;No;No;No;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+49;11;4;74.9;136.05;0.0;0;82.16;218.21;59750-AND;Female;Yes;Andhra Pradesh;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+25;7;20;20.45;34.8;0.0;0;92.0;126.8;83050-PUN;Female;Yes;Punjab;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+57;8;20;50.7;50.7;0.0;0;38.05;88.75;93700-MAH;Female;No;Maharashtra;Deal 5;Yes;No;Yes;Cable;Yes;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+59;1;2;54.3;54.3;0.0;10;34.02;98.32;86369-BIH;Female;No;Bihar;Deal 5;Yes;Yes;Yes;DSL;No;Yes;No;No;No;No;No;No;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+48;5;24;33.6;33.6;0.0;50;0.0;83.6;62359-AND;Female;Yes;Andhra Pradesh;Deal 5;No;Unknown;Yes;Cable;No;Yes;No;Yes;No;No;No;No;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+36;7;7;80.45;137.1;0.0;0;70.82;207.92;81763-DEL;Male;Yes;Delhi;Unknown;Yes;No;Yes;Fiber Optic;Yes;No;Yes;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+26;3;9;20.55;33.6;0.0;0;33.4;67.0;89188-KAR;Female;Yes;Karnataka;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+42;8;27;20.1;43.15;0.0;0;65.72;108.87;83939-AND;Female;No;Andhra Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+32;2;9;55.8;154.55;0.0;0;12.57;167.12;55757-KAR;Female;Yes;Karnataka;Deal 5;Yes;No;Yes;Cable;No;No;Yes;Yes;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+26;14;7;20.05;20.05;0.0;0;11.1;31.15;98767-WES;Female;No;West Bengal;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+25;2;20;69.15;235.0;0.0;0;72.84;307.84;44208-AND;Female;Yes;Andhra Pradesh;Unknown;Yes;Yes;Yes;DSL;No;Yes;Yes;No;Yes;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+23;1;3;20.9;20.9;0.0;0;10.21;31.11;32375-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+52;7;9;69.85;199.85;0.0;0;104.28;304.13;28237-JHA;Female;No;Jharkhand;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+60;12;29;54.5;54.5;0.0;0;33.21;87.71;21642-TEL;Male;Yes;Telangana;Unknown;Yes;No;Yes;DSL;Yes;No;No;Yes;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+41;14;29;45.15;45.15;0.0;0;42.34;87.49;46081-TAM;Male;Yes;Tamil Nadu;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+41;8;3;19.65;19.65;0.0;0;13.85;33.5;13744-AND;Female;Yes;Andhra Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+44;10;34;19.4;19.4;0.0;0;23.97;43.37;71234-HAR;Female;No;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+34;6;31;19.15;19.15;0.0;0;22.37;41.52;15803-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+37;13;13;20.2;20.2;0.0;0;24.48;44.68;41427-HAR;Male;No;Haryana;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+50;15;33;49.75;49.75;0.0;0;41.79;91.54;31294-KAR;Male;Yes;Karnataka;Deal 5;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+42;13;12;70.35;120.25;0.0;20;15.4;155.65;33621-MAD;Female;No;Madhya Pradesh;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+20;5;8;23.6;89.05;0.0;0;42.3;131.35;77911-TEL;Female;No;Telangana;Deal 5;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+44;0;4;24.4;24.4;0.0;0;0.0;24.4;77658-AND;Male;No;Andhra Pradesh;Deal 5;No;Unknown;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+46;13;18;100.2;198.5;0.0;10;45.12;253.62;13123-BIH;Female;No;Bihar;Deal 5;Yes;No;Yes;Fiber Optic;Yes;Yes;No;No;Yes;Yes;Yes;No;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+29;2;10;30.25;63.75;0.0;0;0.0;63.75;42864-ODI;Female;No;Odisha;Deal 5;No;Unknown;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+62;9;25;70.15;123.8;0.0;0;67.5;191.3;51751-KER;Female;No;Kerala;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+46;14;28;94.9;273.2;0.0;0;8.91;282.11;76419-KAR;Male;Yes;Karnataka;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+44;6;8;80.55;80.55;0.0;60;5.93;146.48;39332-TEL;Female;Yes;Telangana;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+32;6;33;49.8;49.8;0.0;0;3.97;53.77;49304-KAR;Female;Yes;Karnataka;Unknown;Yes;Yes;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+68;15;15;70.35;70.35;0.0;10;14.42;94.77;31129-AND;Male;No;Andhra Pradesh;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+22;11;11;51.55;106.2;0.0;0;37.22;143.42;99475-KAR;Male;Yes;Karnataka;Unknown;Yes;No;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+43;11;13;19.95;58.3;0.0;0;15.45;73.75;55831-TAM;Male;No;Tamil Nadu;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+41;9;20;19.65;68.35;0.0;0;106.77;175.12;99144-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+22;10;9;25.15;25.15;0.0;0;0.0;25.15;92228-BIH;Female;Yes;Bihar;Unknown;No;Unknown;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+52;6;2;89.25;89.25;0.0;0;16.64;105.89;37131-MAH;Male;No;Maharashtra;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+33;2;6;29.85;29.85;0.0;0;0.0;29.85;17597-HAR;Female;Yes;Haryana;Deal 5;No;Unknown;Yes;DSL;No;Yes;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+36;15;28;19.55;19.55;0.0;0;17.94;37.49;82427-MAH;Male;No;Maharashtra;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+65;12;1;19.45;19.45;0.0;0;46.59;66.04;28378-MAD;Female;No;Madhya Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+58;15;30;19.9;33.7;0.0;0;7.64;41.34;18027-UTT;Female;Yes;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+59;3;23;20.0;20.0;0.0;0;25.99;45.99;28398-TEL;Male;Yes;Telangana;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+41;1;3;19.65;19.65;0.0;0;23.67;43.32;13946-HAR;Female;Yes;Haryana;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+30;6;36;44.5;90.05;0.0;0;61.74;151.79;38577-BIH;Female;Yes;Bihar;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+43;1;25;45.35;45.35;0.0;0;12.46;57.81;83736-UTT;Male;Yes;Uttar Pradesh;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+54;13;16;20.85;60.65;0.0;0;58.74;119.39;51657-TAM;Male;No;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+50;2;28;19.3;54.7;0.0;0;30.39;85.09;22782-ODI;Female;Yes;Odisha;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+36;2;10;50.75;50.75;0.0;0;45.77;96.52;61331-UTT;Male;Yes;Uttarakhand;Deal 5;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+53;4;14;20.0;49.65;0.0;0;93.18;142.83;83440-GUJ;Male;No;Gujarat;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+57;3;24;20.3;20.3;0.0;0;6.64;26.94;23078-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+37;6;22;74.5;217.45;0.0;0;20.91;238.36;53350-TEL;Male;Yes;Telangana;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+57;14;27;19.75;19.75;0.0;0;1.61;21.36;85027-KAR;Male;No;Karnataka;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+52;8;17;19.9;19.9;0.0;0;2.38;22.28;53449-MAH;Female;No;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+54;0;13;19.3;19.3;0.0;0;16.36;35.66;78978-UTT;Male;No;Uttar Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+21;14;10;89.85;244.45;0.0;0;75.3;319.75;78220-TAM;Female;Yes;Tamil Nadu;Unknown;Yes;No;Yes;Fiber Optic;No;No;Yes;Yes;Yes;No;Yes;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+62;11;18;20.1;39.8;0.0;0;71.0;110.8;85428-HAR;Female;Yes;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+44;7;29;71.1;71.1;0.0;0;37.51;108.61;52641-JHA;Female;Yes;Jharkhand;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+68;4;23;20.2;20.2;0.0;0;13.08;33.28;68556-MAH;Male;No;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+45;4;16;49.85;49.85;0.0;0;42.55;92.4;61025-MAH;Female;No;Maharashtra;Deal 5;Yes;No;Yes;DSL;No;No;Yes;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+31;1;31;19.85;51.6;0.0;0;54.94;106.54;41500-KAR;Male;No;Karnataka;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+22;7;6;44.55;44.55;0.0;0;23.04;67.59;27461-MAD;Male;Yes;Madhya Pradesh;Deal 5;Yes;No;Yes;Cable;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+47;9;19;20.25;20.25;0.0;0;40.46;60.71;77311-MAD;Male;Yes;Madhya Pradesh;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+57;6;6;20.45;20.45;0.0;0;11.61;32.06;29093-ASS;Male;Yes;Assam;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+48;8;18;21.05;21.05;0.0;0;10.14;31.19;83817-UTT;Male;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+34;6;14;47.95;47.95;0.0;0;46.23;94.18;38452-MAH;Female;No;Maharashtra;Deal 5;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+78;6;9;70.6;70.6;0.0;30;32.61;133.21;76233-BIH;Female;Yes;Bihar;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;No;No;No;No;No;Two Year;Yes;Credit Card;Joined;Unknown;Unknown;1
+29;11;10;45.0;45.0;0.0;10;40.63;95.63;41196-MAH;Female;Yes;Maharashtra;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;No;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+31;3;30;19.45;19.45;0.0;0;29.15;48.6;19898-HAR;Male;Yes;Haryana;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+19;5;10;50.05;50.05;0.0;0;43.05;93.1;88215-KAR;Female;No;Karnataka;Deal 5;Yes;Yes;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+38;0;33;77.4;206.15;0.0;0;133.26;339.41;71197-PUN;Female;No;Punjab;Deal 5;Yes;No;Yes;Cable;Yes;No;Yes;No;Yes;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+38;9;24;20.45;20.45;0.0;0;43.82;64.27;87704-GUJ;Female;Yes;Gujarat;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Two Year;No;Credit Card;Joined;Unknown;Unknown;1
+55;10;22;19.8;19.8;0.0;0;11.96;31.76;65531-MAH;Female;No;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;7;15;19.5;19.5;0.0;0;33.02;52.52;85917-TAM;Male;Yes;Tamil Nadu;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+19;5;7;19.55;19.55;0.0;0;5.1;24.65;16244-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+53;11;27;20.3;31.9;0.0;0;70.84;102.74;44693-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+28;12;22;73.6;232.5;0.0;10;82.02;324.52;51214-MAH;Male;No;Maharashtra;Unknown;Yes;No;Yes;Fiber Optic;No;No;Yes;No;No;No;No;No;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+32;12;7;20.7;20.7;0.0;0;45.86;66.56;82718-TAM;Male;Yes;Tamil Nadu;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+46;9;13;54.15;101.65;0.0;10;42.6;154.25;67941-PUN;Female;No;Punjab;Deal 5;Yes;Yes;Yes;DSL;No;Yes;No;No;No;No;No;No;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+38;8;20;44.75;148.05;0.0;10;104.67;262.72;82965-TEL;Female;No;Telangana;Unknown;Yes;No;Yes;Cable;No;No;No;No;No;No;No;No;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+30;12;9;74.0;74.0;0.0;0;23.7;97.7;99862-BIH;Female;No;Bihar;Deal 5;Yes;No;Yes;Fiber Optic;No;No;No;Yes;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+31;13;11;51.25;51.25;0.0;0;39.3;90.55;81098-GUJ;Male;Yes;Gujarat;Unknown;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+37;8;10;44.8;44.8;0.0;0;27.46;72.26;41235-WES;Female;No;West Bengal;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+42;9;32;44.9;44.9;0.0;0;15.76;60.66;81235-JHA;Female;Yes;Jharkhand;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+51;14;30;24.85;62.0;0.0;0;80.5;142.5;34169-RAJ;Male;Yes;Rajasthan;Deal 5;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+74;4;9;44.0;44.0;0.0;0;28.67;72.67;23148-CHH;Female;Yes;Chhattisgarh;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Two Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+31;5;13;20.35;41.85;0.0;0;10.84;52.69;58044-KAR;Female;No;Karnataka;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+61;4;3;20.05;20.05;0.0;0;13.51;33.56;75802-MAH;Female;No;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+58;14;18;49.8;49.8;0.0;0;38.21;88.01;58848-PUN;Male;Yes;Punjab;Unknown;Yes;No;Yes;Cable;Yes;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+72;7;29;74.3;74.3;0.0;0;17.84;92.14;33565-UTT;Male;Yes;Uttar Pradesh;Unknown;Yes;Yes;Yes;Fiber Optic;No;No;No;No;No;No;No;Yes;Two Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+47;5;3;49.2;103.7;0.0;0;58.56;162.26;89154-RAJ;Female;No;Rajasthan;Deal 5;Yes;No;Yes;Cable;No;Yes;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+41;1;29;49.55;49.55;0.0;0;10.83;60.38;77678-JHA;Female;Yes;Jharkhand;Unknown;Yes;No;Yes;DSL;Yes;No;No;No;No;No;No;Yes;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+45;12;35;25.0;25.0;0.0;0;3.39;28.39;78021-UTT;Female;Yes;Uttar Pradesh;Deal 5;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+23;14;9;55.3;108.65;0.0;0;87.86;196.51;29371-WES;Female;No;West Bengal;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;Yes;Yes;Yes;Month-to-Month;Yes;Bank Withdrawal;Joined;Unknown;Unknown;1
+42;12;9;21.2;52.05;0.0;0;36.15;88.2;88728-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+58;8;7;44.95;44.95;0.0;0;13.63;58.58;28782-PUN;Male;Yes;Punjab;Deal 5;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Mailed Check;Joined;Unknown;Unknown;1
+18;4;4;55.9;157.55;0.0;0;99.84;257.39;49265-BIH;Female;Yes;Bihar;Deal 5;Yes;No;Yes;Cable;Yes;No;Yes;No;No;No;Yes;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+38;2;21;20.15;20.15;0.0;0;27.59;47.74;84770-UTT;Female;Yes;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+59;6;14;74.1;74.1;0.0;0;36.05;110.15;75058-TEL;Female;No;Telangana;Unknown;Yes;No;Yes;DSL;No;No;Yes;Yes;Yes;Yes;Yes;Yes;One Year;No;Credit Card;Joined;Unknown;Unknown;1
+62;4;2;18.85;18.85;0.0;0;7.8;26.65;81169-TEL;Female;Yes;Telangana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+54;6;2;19.1;53.05;0.0;0;48.96;102.01;65580-UTT;Male;No;Uttar Pradesh;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+64;14;13;81.5;162.55;0.0;0;49.9;212.45;41348-BIH;Female;No;Bihar;Unknown;Yes;No;Yes;Fiber Optic;No;No;No;No;Yes;No;No;Yes;Two Year;No;Credit Card;Joined;Unknown;Unknown;1
+34;4;31;19.4;50.6;0.0;0;30.32;80.92;89804-MAH;Male;No;Maharashtra;Deal 5;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+28;1;21;19.75;19.75;0.0;0;30.38;50.13;74978-MAH;Female;Yes;Maharashtra;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+22;2;8;53.55;53.55;0.0;0;16.06;69.61;99996-HAR;Male;Yes;Haryana;Deal 5;Yes;No;Yes;DSL;Yes;Yes;No;No;No;No;Yes;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+27;5;10;20.3;20.3;0.0;0;10.84;31.14;21065-HAR;Male;No;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+81;14;29;19.2;37.2;0.0;0;14.06;51.26;31412-HAR;Female;Yes;Haryana;Unknown;Yes;No;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Two Year;No;Bank Withdrawal;Joined;Unknown;Unknown;1
+55;7;23;44.0;44.0;0.0;0;26.15;70.15;54997-UTT;Female;No;Uttar Pradesh;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;Yes;Credit Card;Joined;Unknown;Unknown;1
+40;0;1;45.6;45.6;0.0;0;37.44;83.04;56728-RAJ;Male;No;Rajasthan;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;No;No;Yes;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
+62;7;29;5.0;189.1;0.0;0;100.59;289.69;47624-TAM;Female;Yes;Tamil Nadu;Unknown;Yes;No;Yes;DSL;No;No;No;No;No;Yes;Yes;Yes;Month-to-Month;No;Mailed Check;Joined;Unknown;Unknown;1
+32;15;2;24.6;86.35;0.0;0;78.99;165.34;95053-UTT;Female;No;Uttar Pradesh;Unknown;Yes;Yes;No;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Unknown;Month-to-Month;No;Credit Card;Joined;Unknown;Unknown;1
