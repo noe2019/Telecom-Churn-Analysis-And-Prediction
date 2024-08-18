@@ -1,5 +1,3 @@
-Here’s the improved GitHub README with better flow and a table of contents:
-
 ---
 
 # Telecom Customer Churn Analysis and Prediction
