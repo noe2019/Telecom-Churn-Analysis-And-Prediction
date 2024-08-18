@@ -1,10 +1,5 @@
-# Telecom-Churn-Analysis-And-Prediction
-### GitHub README for Telecom Churn Analysis and Prediction Project
-
+# Telecom-Customer-Churn-Analysis-And-Prediction
 ---
-
-# Telecom Customer Churn Analysis and Prediction
-
 ## Introduction
 
 In the competitive telecom industry, understanding and mitigating customer churn is crucial for sustained growth and profitability. This project focuses on analyzing customer churn through comprehensive Power BI dashboards, enabling stakeholders to understand the factors driving customer attrition. By leveraging data analytics and machine learning, this project provides actionable insights and predictive models to improve customer retention strategies.
