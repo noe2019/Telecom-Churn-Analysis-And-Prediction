@@ -1,5 +1,9 @@
-# Telecom Customer Churn Analysis and Prediction
+Here’s the updated README with specific insights derived from the attached images included in the "Insights and Recommendations" section:
+
 ---
+
+# Telecom Customer Churn Analysis and Prediction
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Overview](#data-overview)
@@ -214,23 +218,12 @@ print(classification_report(y_test, y_pred))
 
 ## Insights and Recommendations
 
-1. **High Churn Rate in Month-to-Month Contracts**: Customers on month-to-month contracts exhibit the highest churn rate. Consider offering incentives for longer-term contracts.
-2. **Geographical Disparities**: Certain states show higher churn rates, suggesting a need for targeted regional retention strategies.
-3. **Service-Related Churn**: Customers using specific services, like `Internet Service`, show higher churn rates. Improving service quality could reduce churn.
-4. **Proactive Retention**: Use the churn prediction model to identify at-risk customers and implement proactive retention strategies, such as personalized offers or customer support interventions.
+1. **High Churn Rate in Month-to-Month Contracts**: Customers on month-to-month contracts exhibit the highest churn rate across all segments, reaching as high as 54.2%. To reduce this churn, consider offering discounts or benefits for committing to longer-term contracts.
+   
+2. **Geographical Disparities**: Churn rates vary significantly across states, with regions like Jammu and Kashmir exhibiting churn rates as high as 61.3%, indicating a need for localized strategies to improve retention in these areas.
 
-## Conclusion
+3. **Payment Method Impact**: Customers using Mailed Checks as their payment method have a significantly higher churn rate (52.0%) compared to those using Credit Cards (19.8%). Streamlining digital payment options could help reduce churn in this group.
 
-This project provides a comprehensive approach to analyzing and predicting customer churn in the telecom industry. By integrating data analytics with machine learning, the company can make informed decisions to enhance customer retention and reduce churn rates.
+4. **Age and Tenure Influence**: The analysis shows that customers aged over 50 and with a tenure of fewer than 6 months have the highest churn rates. Targeted engagement campaigns for new customers, particularly those in this age group, could be beneficial.
 
----
-
-## Tools Used
-
-- **SQL Server**: For data storage and management.
-- **Power BI**: For interactive dashboards and data visualization.
-- **Python (Jupyter Notebook)**: For building and evaluating the churn prediction model.
-
-## Target Audience
-
-This project is aimed at telecom companies, data analysts, and business strategists looking to understand customer churn.
+5. **Service-Related Churn**: Churn is notably higher among customers using specific services like Cable.
