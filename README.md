@@ -1,9 +1,5 @@
-Here’s the improved GitHub README with better flow and a table of contents:
-
----
-
 # Telecom Customer Churn Analysis and Prediction
-
+---
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Overview](#data-overview)
