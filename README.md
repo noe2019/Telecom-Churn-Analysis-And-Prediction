@@ -235,4 +235,4 @@ This project provides a comprehensive approach to analyzing and predicting custo
 
 ## Target Audience
 
-This project is aimed at telecom companies, data analysts, and business strategists looking to understand customer churns.
+This project is aimed at telecom companies, data analysts, and business strategists looking to understand customer churns
